@@ -48,16 +48,21 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Orgpg&show_icons=true&count_private=true&theme=radical&border_radius=10" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Orgpg&theme=radical&hide_border=false&border_radius=10" width="47%" />
+  <!-- Total + Private commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Orgpg&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
+
+  <!-- Streak (auto includes private activity) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Orgpg&theme=radical&hide_border=true&border_radius=10" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orgpg&layout=donut&theme=radical&hide_border=false&border_radius=10" width="45%" />
-  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orgpg&layout=compact&theme=radical&hide_border=true&border_radius=10" width="40%" />
+
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Orgpg&theme=gruvbox&row=1&column=7&margin-w=10&no-frame=false" />
+  <!-- Trophy section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Orgpg&theme=gruvbox&no-bg=true&no-frame=false&margin-w=10" />
 
 </div>
 
