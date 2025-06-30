@@ -59,7 +59,7 @@
   <a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=red"/></a>
   <a href="https://linkedin.com/in/orgpg"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
-  <a href="[https://your-portfolio.com](https://www.waiphyoaung.dev)"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
