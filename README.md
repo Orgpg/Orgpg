@@ -1,65 +1,69 @@
-<h1 align="center">Hi there, I'm Wai Phyo Aung 👋</h1>
+<h1 align="center">Hi, I'm Wai Phyo Aung 👨‍💻</h1>
 
 <p align="center">
-  <a href="https://github.com/Orgpg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;React%20%7C%20Next.js%20%7C%20Tailwind%20CSS;Loves%20Clean%20UI%20%26%20UX;Open%20Source%20Contributor;Always%20Learning%20🚀&center=true&width=500&height=45&font=Fira%20Code&pause=1000" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Orgpg">
-    <img src="https://komarev.com/ghpvc/?username=Orgpg&label=Profile%20views&color=0e75b6&style=flat" alt="Orgpg" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer%20from%20Myanmar;React+%7C+Next.js+%7C+TailwindCSS;UI%2FUX+Lover%20%F0%9F%A7%A1;Lifelong+Learner&center=true&width=500&height=45&font=Fira+Code&pause=1000" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **modern, responsive web apps**
-- 🌱 Learning more about **Next.js, TypeScript, and Web Performance**
-- 🎯 Passionate about **UI/UX design**, frontend architecture, and animations
-- ✉️ Reach me at: [your@email.com](mailto:your@email.com)
+- 🔭 Working on **scalable & beautiful web applications**
+- 🌐 Building UI kits, reusable components, and micro-frontends
+- 🎨 Passionate about clean UI/UX and micro animations
+- 🛠️ Currently exploring **NextAuth, Zustand, Docker** and performance optimization
+- ✨ I love open-source, community, and coffee ☕️
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,vite,html,css,git,github,figma,vscode&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔧 [**Modern-Portfolio**](https://github.com/Orgpg/Modern-Portfolio) | Clean and animated portfolio built with Next.js | Next.js, Tailwind |
+| ✅ [**js-todolist**](https://github.com/Orgpg/js-todolist) | Simple yet functional todo app | HTML, CSS, JavaScript |
+| 🔧 [**maintenance-page**](https://github.com/Orgpg/maintenance-page) | A stylish "under construction" page | React, TypeScript |
+| 📁 [**ReactProject**](https://github.com/Orgpg/ReactProject) | Learning project with reusable components | React |
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Build and deploy 10+ real-world web apps
+- 📚 Write technical blogs (especially React/Next.js tips)
+- 🧠 Contribute more to open-source projects
+- 🎥 Launch a YouTube channel for coding & UI tricks
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Orgpg&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Orgpg&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+
+## 🌍 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orgpg&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://linkedin.com/in/orgpg"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="[https://your-portfolio.com](https://www.waiphyoaung.dev)"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=100&section=footer"/>
 </p>
-
----
-
-> 🎨 *Designed with love by [Wai Phyo Aung](https://github.com/Orgpg)* 💙
