@@ -44,12 +44,24 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orgpg&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Orgpg&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Orgpg&show_icons=true&count_private=true&theme=radical&border_radius=10" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Orgpg&theme=radical&hide_border=false&border_radius=10" width="47%" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orgpg&layout=donut&theme=radical&hide_border=false&border_radius=10" width="45%" />
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Orgpg&theme=gruvbox&row=1&column=7&margin-w=10&no-frame=false" />
+
+</div>
+
+
 
 ---
 
@@ -60,7 +72,10 @@
   <a href="https://linkedin.com/in/orgpg"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
   <a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://facebook.com/wpa2018"><img src="https://img.shields.io/badge/Facebook-1a1a1a?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
+  <a href="https://t.me/orgpg"><img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=26A5E4"/></a>
 </p>
+
 
 ---
 
