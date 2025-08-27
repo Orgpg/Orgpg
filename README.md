@@ -28,10 +28,12 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔧 [**Modern-Portfolio**](https://github.com/Orgpg/Modern-Portfolio) | Clean and animated portfolio built with Next.js | Next.js, Tailwind |
-| ✅ [**js-todolist**](https://github.com/Orgpg/js-todolist) | Simple yet functional todo app | HTML, CSS, JavaScript |
-| 🔧 [**maintenance-page**](https://github.com/Orgpg/maintenance-page) | A stylish "under construction" page | React, TypeScript |
+| 📁 [**Modern-Portfolio**](https://github.com/Orgpg/Modern-Portfolio) | Clean and animated portfolio built with Next.js | Next.js, Tailwind |
+| 📁 [**js-todolist**](https://github.com/Orgpg/js-todolist) | Simple yet functional todo app | HTML, CSS, JavaScript |
+| 📁 [**maintenance-page**](https://github.com/Orgpg/maintenance-page) | A stylish "under construction" page | React, TypeScript |
 | 📁 [**ReactProject**](https://github.com/Orgpg/ReactProject) | Learning project with reusable components | React |
+| 📁 [**Timetable Reminders**](https://github.com/Orgpg/hnd-68-timetable) | Daily Timetable Reminders | Next.js, Tailwind CSS, React, Nodemailer |
+| 📁 [**CLI Game**](https://github.com/Orgpg/CLI-Game-HND68) | CLI Game For 2 Person | Python |
 
 ---
 
