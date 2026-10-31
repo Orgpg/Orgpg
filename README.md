@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=Wai%20Phyo%20Aung&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Enthusiast%20%26%20Developer%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Networking&descSize=16&descAlignY=56&animation=fadeIn" alt="Wai Phyo Aung header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=Wai%20Phyo%20Aung&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=IT%20Enthusiast%20%E2%80%A2%20Developer%20%E2%80%A2%20Technology%20Explorer&descSize=17&descAlignY=56&animation=fadeIn" alt="Wai Phyo Aung Header" />
 
 <a href="https://www.waiphyoaung.dev">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Responsive+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Creating+Clean+and+User-Friendly+Interfaces;Exploring+Computer+Networking+and+IT;Always+Learning%2C+Always+Improving" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Frontend+%E2%80%A2+Backend+%E2%80%A2+Full+Stack;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Working+with+APIs+and+Databases;Exploring+Computer+Networking+and+IT" alt="Typing animation" />
 </a>
 
 <p>
@@ -20,6 +20,8 @@
 
 </div>
 
+---
+
 ## 👋 About Me
 
 ```ts
@@ -31,22 +33,39 @@ const waiPhyoAung = {
 
   interests: [
     "Web Development",
-    "Frontend Engineering",
+    "Frontend Development",
+    "Backend Development",
     "UI/UX Design",
     "Computer Networking",
     "Network Security"
   ],
 
-  technologies: [
+  frontend: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
     "React.js",
     "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS",
+    "Tailwind CSS"
+  ],
+
+  backend: [
     "Node.js",
-    "REST API",
+    "REST API"
+  ],
+
+  database: [
     "PostgreSQL",
     "MongoDB"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Docker",
+    "Figma"
   ],
 
   networking: [
@@ -60,42 +79,57 @@ const waiPhyoAung = {
 };
 ```
 
-- 💻 I build responsive web applications using React.js, Next.js, and TypeScript.
+- 💻 I build modern and responsive web applications.
 - 🎨 I enjoy creating clean, modern, and user-friendly interfaces.
-- ⚡ I focus on frontend development, API integration, and responsive web design.
+- ⚛️ I work with React.js, Next.js, TypeScript, and Tailwind CSS.
+- ⚙️ I explore backend development using Node.js and REST APIs.
+- 🗄️ I work with database technologies such as PostgreSQL and MongoDB.
 - 🌐 I also have knowledge of computer networking, routing, switching, and network security.
 - 📚 Currently pursuing an HND in Computing at GUSTO College.
 - 🎯 Always learning new technologies and improving my technical skills.
-- 🤝 Open to opportunities, professional collaborations, and continuous learning.
+- 🤝 Open to professional opportunities, collaborations, and new challenges.
+
+---
 
 ## 🛠️ Tech Toolbox
 
 <div align="center">
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
 
-### Backend & Database
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Backend technologies" />
 
-### Tools & Development Environment
+<br />
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Database technologies" />
+
+### 🧰 Tools & Development Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" alt="Development tools" />
 
 </div>
 
-### Networking Knowledge
+### 🌐 Networking & Security Knowledge
 
 - TCP/IP, DNS, and DHCP
 - IP Addressing and Subnetting
 - Routing and Switching
-- VLAN, OSPF, and EIGRP fundamentals
-- NAT and Firewall fundamentals
-- Palo Alto Firewall fundamentals
+- VLAN, OSPF, and EIGRP Fundamentals
+- NAT and Firewall Fundamentals
+- Palo Alto Firewall Fundamentals
 - Cisco Packet Tracer
 - Wireshark, Ping, and Traceroute
+- Windows, Linux, and Ubuntu
+
+---
 
 ## ✨ Featured Projects
 
@@ -126,6 +160,7 @@ A timetable reminder system with automated email notifications.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -151,6 +186,7 @@ A two-player command-line game developed using Python.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -189,6 +225,8 @@ A media management project developed using Python.
 
 </details>
 
+---
+
 ## 🎓 Education & Training
 
 **GUSTO College**
@@ -205,27 +243,37 @@ A media management project developed using Python.
 - Basic OSPF and EIGRP
 - Palo Alto Firewall Fundamentals
 
+---
+
 ## 💼 Professional Experience
 
 **Moethitsarmyae Co., Ltd (Medical Company)**  
 *Sales & Marketing | 2021 – 2022*
+
 - Customer relationship management and product promotion.
 - Supported daily business operations.
+- Developed communication and problem-solving skills.
 
 **Atom (Telenor) Myanmar Co., Ltd**  
 *Sales & Marketing | 2019 – 2020*
+
 - Customer service and product information.
 - Team collaboration and sales support.
 
 **Mytel Myanmar Co., Ltd**  
 *Sales & Marketing | 2017 – 2018*
+
 - Customer relationship management.
 - Supported daily sales operations.
 
 **Independent Web Development Projects**  
 *2023 – Present*
+
 - Building responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
 - Practicing UI/UX design, API integration, and frontend development.
+- Exploring backend development and database integration.
+
+---
 
 ## 📈 GitHub Journey
 
@@ -242,26 +290,32 @@ A media management project developed using Python.
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Orgpg&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Wai%20Phyo%20Aung%27s%20Contribution%20Graph" alt="GitHub contribution graph" />
 
-<sub>GitHub statistics and contribution activity</sub>
+<sub>Live GitHub statistics and contribution activity</sub>
 
 </div>
+
+---
 
 ## 🎯 My Goals
 
 - 🚀 Grow as a developer and IT professional.
 - 💻 Build useful, modern, and responsive web applications.
-- 🎨 Improve UI/UX design and frontend development skills.
+- ⚛️ Improve frontend and backend development skills.
+- 🗄️ Gain more practical experience with APIs and databases.
+- 🎨 Improve UI/UX design and user experience.
 - 🌐 Strengthen my knowledge of computer networking and network security.
-- 📚 Keep learning new technologies and improving problem-solving skills.
-- 🤝 Collaborate with teams and gain practical experience.
+- 📚 Continuously learn new technologies and improve problem-solving skills.
+- 🤝 Collaborate with development teams and gain real-world experience.
+
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm interested in web development, UI/UX design, computer networking, and IT technologies.
+I'm interested in web development, frontend and backend technologies, UI/UX design, computer networking, and IT.
 
-I'm happy to connect with developers, share knowledge, and explore new opportunities.
+I'm always happy to connect with developers, share knowledge, and explore new opportunities.
 
 <a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 <a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
