@@ -1,21 +1,22 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=Wai%20Phyo%20Aung&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20Open-Source%20Builder&descSize=17&descAlignY=56&animation=fadeIn" alt="Wai Phyo Aung header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=220&section=header&text=Wai%20Phyo%20Aung&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20IT%20Enthusiast&descSize=16&descAlignY=56&animation=fadeIn" alt="Wai Phyo Aung header" />
 
 <a href="https://www.waiphyoaung.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+fast%2C+beautiful+web+experiences;React+%E2%80%A2+Next.js+%E2%80%A2+Flutter+%E2%80%A2+Dart;Turning+ideas+into+delightful+interfaces;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Responsive+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Creating+Clean+and+User-Friendly+Interfaces;Learning+and+Growing+Every+Day" alt="Typing animation" />
 </a>
 
 <p>
-  <a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/orgpg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/orgpg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/orgpg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/orgpg"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<a href="https://github.com/Orgpg?tab=followers"><img src="https://img.shields.io/github/followers/Orgpg?label=Followers&style=flat-square&color=7C3AED&labelColor=0F172A" alt="GitHub followers" /></a>
-<a href="https://github.com/Orgpg?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrgpg&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=06B6D4&labelColor=0F172A&logo=github" alt="Public repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=Orgpg&label=Profile+Views&color=22C55E&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Orgpg?tab=followers"><img src="https://img.shields.io/github/followers/Orgpg?label=Followers&style=flat-square&color=7C3AED&labelColor=0F172A" /></a>
+<a href="https://github.com/Orgpg?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FOrgpg&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=06B6D4&labelColor=0F172A&logo=github" /></a>
+<img src="https://komarev.com/ghpvc/?username=Orgpg&label=Profile+Views&color=22C55E&style=flat-square" />
 
 </div>
 
@@ -24,64 +25,122 @@
 ```ts
 const waiPhyoAung = {
   location: "Myanmar 🇲🇲",
-  role: "Web Developer",
-  focus: ["Scalable Web Apps", "Design Systems", "Micro-frontends"],
-  learning: ["NextAuth", "Zustand", "Docker", "Web Performance"],
-  passions: ["Clean UI/UX", "Micro-interactions", "Open Source", "Coffee ☕"],
-  motto: "Craft with care. Learn without limits. Ship with purpose."
+  role: "Junior Frontend Developer",
+
+  education: "HND in Computing @ GUSTO College",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "REST API",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+
+  networking: [
+    "CCNA Fundamentals",
+    "Routing & Switching",
+    "Network Security",
+    "Palo Alto Firewall"
+  ],
+
+  interests: [
+    "Frontend Development",
+    "UI/UX Design",
+    "Responsive Web Design",
+    "Computer Networking"
+  ],
+
+  motto: "Keep Learning. Keep Building. Keep Improving."
 };
 ```
 
-- 🔭 I build scalable, accessible, and visually polished web applications.
-- 🧩 I enjoy creating reusable components, UI kits, and design systems.
-- ⚡ I care about performance, thoughtful motion, and delightful user experiences.
-- 🤝 I'm open to collaborations, open-source projects, and exciting frontend opportunities.
+- 💻 I build responsive web applications using React.js, Next.js, and TypeScript.
+- 🎨 I enjoy creating clean, modern, and user-friendly interfaces.
+- ⚡ I focus on frontend development, API integration, and responsive web design.
+- 🌐 I also have knowledge of computer networking, routing, switching, and network security.
+- 📚 Currently pursuing an HND in Computing at GUSTO College.
+- 🎯 Always learning new technologies and improving my technical skills.
+- 🤝 Open to Junior Frontend Developer opportunities and professional collaborations.
 
 ## 🛠️ Tech Toolbox
 
 <div align="center">
 
-### Core
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,dart,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Flutter, Dart, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-### Styling, State & Tooling
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=tailwind,redux,vite,git,github,figma,vscode,docker&theme=dark" alt="Tools and technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb&theme=dark" />
+
+### Tools & Development Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" />
+
+### Networking & Security
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
 
 </div>
 
-## ✨ Featured Work
+### Networking Knowledge
+
+- TCP/IP, DNS, DHCP
+- IP Addressing & Subnetting
+- Routing & Switching
+- VLAN, OSPF & EIGRP (Fundamentals)
+- NAT & Firewall Fundamentals
+- Palo Alto Firewall
+- Cisco Packet Tracer
+- Wireshark, Ping & Traceroute
+
+## ✨ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [Modern Portfolio](https://github.com/Orgpg/Modern-Portfolio)
+### 🌐 Modern Portfolio
 
-A clean, animated portfolio focused on polished UI and smooth interactions.
+A personal portfolio website featuring modern UI, responsive layouts, and smooth interactions.
+
+[View Project](https://github.com/Orgpg/Modern-Portfolio)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⏰ [Timetable Reminders](https://github.com/Orgpg/hnd-68-timetable)
+### ⏰ Timetable Reminders
 
-Daily timetable reminders with automated email notifications.
+A timetable reminder system with automated email notifications.
+
+[View Project](https://github.com/Orgpg/hnd-68-timetable)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22C55E?style=flat-square&logo=gmail&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🚧 [Maintenance Page](https://github.com/Orgpg/maintenance-page)
+### 🚧 Maintenance Page
 
-A stylish, responsive under-construction experience.
+A responsive maintenance and under-construction landing page.
+
+[View Project](https://github.com/Orgpg/maintenance-page)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -89,12 +148,13 @@ A stylish, responsive under-construction experience.
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [CLI Game](https://github.com/Orgpg/CLI-Game-HND68)
+### 🎮 CLI Game
 
-A two-player command-line game built with Python.
+A simple two-player command-line game developed using Python.
+
+[View Project](https://github.com/Orgpg/CLI-Game-HND68)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-0F172A?style=flat-square&logo=windowsterminal&logoColor=white)
 
 </td>
 </tr>
@@ -102,84 +162,123 @@ A two-player command-line game built with Python.
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [MinIO Console](https://github.com/Orgpg/MinIO-Console)
+### 🗄️ MinIO Console
 
-Setup guides for MinIO, PostgreSQL, and Nginx with Docker Compose & SSL.
+Configuration and deployment guides for MinIO, PostgreSQL, and Nginx using Docker Compose and SSL.
+
+[View Project](https://github.com/Orgpg/MinIO-Console)
 
 ![MinIO](https://img.shields.io/badge/MinIO-C42C29?style=flat-square&logo=minio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [MediaFlux](https://github.com/Orgpg/mediaflux)
+### 🎬 MediaFlux
 
-A media management tool built with Python.
+A media management project developed using Python.
+
+[View Project](https://github.com/Orgpg/mediaflux)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4E138A?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </td>
 </tr>
-
 </table>
 
 <details>
-<summary><strong>More projects</strong></summary>
-<br />
+<summary><strong>More Projects</strong></summary>
 
-| Project | What it is | Built with |
+| Project | Description | Technology |
 | :--- | :--- | :--- |
-| [js-todolist](https://github.com/Orgpg/js-todolist) | A clean and functional task manager | HTML, CSS, JavaScript |
-| [ReactProject](https://github.com/Orgpg/ReactProject) | Reusable components and React experiments | React |
+| [js-todolist](https://github.com/Orgpg/js-todolist) | Task management application | HTML, CSS, JavaScript |
+| [ReactProject](https://github.com/Orgpg/ReactProject) | React learning and development projects | React |
 
 </details>
+
+## 🎓 Education & Training
+
+**GUSTO College**
+- HND in Computing (2025 – Present)
+- Expected Completion: February 2027
+
+**Maubin University**
+- Bachelor of Arts (Geography)
+- 2017 – 2023
+
+**Twinkle College**
+- CCNA-Level Networking Training (2023 – 2024)
+- Local CCNA Examination
+- Basic OSPF and EIGRP
+- Palo Alto Firewall Fundamentals
+
+## 💼 Professional Experience
+
+**Moethitsarmyae Co., Ltd (Medical Company)**
+- Sales & Marketing | 2021 – 2022
+- Customer relationship management and product promotion.
+
+**Atom (Telenor) Myanmar Co., Ltd**
+- Sales & Marketing | 2019 – 2020
+- Customer service, product information, and teamwork.
+
+**Mytel Myanmar Co., Ltd**
+- Sales & Marketing | 2017 – 2018
+- Customer relationship management and sales operations.
 
 ## 📈 GitHub Journey
 
 <div align="center">
 
-<!-- Live GitHub data. Third-party renderers may cache responses for a short time. -->
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orgpg&theme=tokyonight" alt="GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orgpg&theme=tokyonight" alt="Top languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orgpg&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orgpg&theme=tokyonight" />
 
 <br /><br />
 
-<img width="62%" src="https://streak-stats.demolab.com?user=Orgpg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="Current GitHub contribution streak" />
+<img width="62%" src="https://streak-stats.demolab.com?user=Orgpg&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br /><br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Orgpg&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Wai%20Phyo%20Aung%27s%20Contribution%20Graph" alt="Wai Phyo Aung's live GitHub contribution graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Orgpg&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Wai%20Phyo%20Aung%27s%20Contribution%20Graph" />
 
-<sub>Live data from GitHub • Some cards may be cached briefly by their rendering services</sub>
+<sub>GitHub statistics and contribution activity</sub>
 
 </div>
 
-## 🎯 2026 Mission
+## 🎯 My Goals
 
-- 🚀 Ship meaningful, production-ready web products.
-- ✍️ Share practical React, Next.js, and UI engineering lessons.
-- 🌱 Contribute consistently to open-source communities.
-- 🎬 Create coding and UI content for fellow developers.
-- ⚡ Push every project toward better accessibility and performance.
+- 🚀 Become a professional Frontend Developer.
+- 💻 Build modern and responsive web applications.
+- 🎨 Improve UI/UX design and frontend development skills.
+- 🌐 Strengthen my knowledge of computer networking and cybersecurity.
+- 📚 Continuously learn new technologies and improve problem-solving skills.
+- 🤝 Work with professional development teams and gain real-world experience.
 
-## 🤝 Let's Build Something Great
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always happy to talk about frontend engineering, UI/UX, open source, or a new idea.
+I'm interested in frontend development, UI/UX design, web technologies, and computer networking.
 
-<a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-<a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Explore_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
-<a href="https://facebook.com/wpa2018"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+I'm always happy to connect with developers, share knowledge, and explore new opportunities.
+
+<a href="mailto:info@waiphyoaung.dev">
+<img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.waiphyoaung.dev">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/wpa2018">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 <br /><br />
 
-### Show some ❤️ by starring a project you like!
+### Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=120&section=footer" />
 
 </div>
