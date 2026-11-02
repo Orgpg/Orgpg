@@ -24,70 +24,86 @@
 
 ## 👋 About Me
 
-```ts
-const waiPhyoAung = {
-  location: "Myanmar 🇲🇲",
-  role: "IT Enthusiast & Developer",
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  education: "HND in Computing @ GUSTO College",
+### Hello, I'm Wai Phyo Aung!
 
-  interests: [
-    "Web Development",
-    "Frontend Development",
-    "Backend Development",
-    "UI/UX Design",
-    "Computer Networking",
-    "Network Security"
-  ],
+I'm an **IT Enthusiast & Developer** from Myanmar with an interest in building modern web applications and exploring different areas of information technology.
 
-  frontend: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "TypeScript",
-    "React.js",
-    "Next.js",
-    "Tailwind CSS"
-  ],
+I enjoy working across frontend and backend technologies, creating user-friendly interfaces, integrating APIs, and working with databases.
 
-  backend: [
-    "Node.js",
-    "REST API"
-  ],
+Beyond web development, I also have knowledge of computer networking, routing and switching, and network security.
 
-  database: [
-    "PostgreSQL",
-    "MongoDB"
-  ],
+Currently pursuing an **HND in Computing at GUSTO College**, while continuously improving my technical knowledge through personal projects and hands-on learning.
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Docker",
-    "Figma"
-  ],
+</td>
+<td width="42%" valign="top">
 
-  networking: [
-    "CCNA Fundamentals",
-    "Routing & Switching",
-    "Network Security",
-    "Palo Alto Firewall"
-  ],
+### 👨‍💻 Profile Overview
 
-  motto: "Keep Learning. Keep Building. Keep Improving."
-};
-```
+| | |
+|---|---|
+| **Name** | Wai Phyo Aung |
+| **Location** | Myanmar 🇲🇲 |
+| **Role** | IT Enthusiast & Developer |
+| **Education** | HND in Computing |
+| **College** | GUSTO College |
+| **Interests** | Development & Networking |
+| **Website** | [waiphyoaung.dev](https://www.waiphyoaung.dev) |
+| **GitHub** | [@Orgpg](https://github.com/Orgpg) |
 
-- 💻 I build modern and responsive web applications.
-- 🎨 I enjoy creating clean, modern, and user-friendly interfaces.
-- ⚛️ I work with React.js, Next.js, TypeScript, and Tailwind CSS.
-- ⚙️ I explore backend development using Node.js and REST APIs.
-- 🗄️ I work with database technologies such as PostgreSQL and MongoDB.
-- 🌐 I also have knowledge of computer networking, routing, switching, and network security.
-- 📚 Currently pursuing an HND in Computing at GUSTO College.
-- 🎯 Always learning new technologies and improving my technical skills.
-- 🤝 Open to professional opportunities, collaborations, and new challenges.
+</td>
+</tr>
+</table>
+
+### 💡 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Frontend Development**
+
+Building responsive web interfaces with modern frontend technologies and focusing on clean UI/UX.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Backend Development**
+
+Exploring server-side development, REST APIs, application logic, and database integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Database Management**
+
+Working with relational and NoSQL database technologies such as PostgreSQL and MongoDB.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Computer Networking**
+
+Learning networking fundamentals, routing, switching, firewall technologies, and network security.
+
+</td>
+</tr>
+</table>
+
+### 🎯 Currently Focused On
+
+- Improving frontend and backend development skills.
+- Building practical web applications and personal projects.
+- Learning more about APIs and database integration.
+- Strengthening networking and cybersecurity knowledge.
+- Continuously improving problem-solving and technical skills.
+
+> "Keep Learning. Keep Building. Keep Improving."
 
 ---
 
@@ -119,15 +135,14 @@ const waiPhyoAung = {
 
 ### 🌐 Networking & Security Knowledge
 
-- TCP/IP, DNS, and DHCP
-- IP Addressing and Subnetting
-- Routing and Switching
-- VLAN, OSPF, and EIGRP Fundamentals
-- NAT and Firewall Fundamentals
-- Palo Alto Firewall Fundamentals
-- Cisco Packet Tracer
-- Wireshark, Ping, and Traceroute
-- Windows, Linux, and Ubuntu
+| Category | Skills & Technologies |
+|---|---|
+| Networking | TCP/IP, DNS, DHCP |
+| IP Services | IP Addressing, Subnetting, NAT |
+| Routing & Switching | VLAN, OSPF, EIGRP Fundamentals |
+| Network Security | Firewall Fundamentals, Palo Alto Firewall |
+| Network Tools | Cisco Packet Tracer, Wireshark, Ping, Traceroute |
+| Operating Systems | Windows, Linux, Ubuntu |
 
 ---
 
@@ -160,7 +175,6 @@ A timetable reminder system with automated email notifications.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -186,7 +200,6 @@ A two-player command-line game developed using Python.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -229,15 +242,15 @@ A media management project developed using Python.
 
 ## 🎓 Education & Training
 
-**GUSTO College**
+### GUSTO College
 - HND in Computing (2025 – Present)
 - Expected Completion: February 2027
 
-**Maubin University (Distance Education)**
+### Maubin University (Distance Education)
 - Bachelor of Arts (Geography)
 - 2017 – 2023
 
-**Twinkle College**
+### Twinkle College
 - CCNA-Level Networking Training (2023 – 2024)
 - Local CCNA Examination
 - Basic OSPF and EIGRP
@@ -247,27 +260,27 @@ A media management project developed using Python.
 
 ## 💼 Professional Experience
 
-**Moethitsarmyae Co., Ltd (Medical Company)**  
-*Sales & Marketing | 2021 – 2022*
+### Moethitsarmyae Co., Ltd (Medical Company)
+**Sales & Marketing | 2021 – 2022**
 
 - Customer relationship management and product promotion.
 - Supported daily business operations.
 - Developed communication and problem-solving skills.
 
-**Atom (Telenor) Myanmar Co., Ltd**  
-*Sales & Marketing | 2019 – 2020*
+### Atom (Telenor) Myanmar Co., Ltd
+**Sales & Marketing | 2019 – 2020**
 
 - Customer service and product information.
 - Team collaboration and sales support.
 
-**Mytel Myanmar Co., Ltd**  
-*Sales & Marketing | 2017 – 2018*
+### Mytel Myanmar Co., Ltd
+**Sales & Marketing | 2017 – 2018**
 
 - Customer relationship management.
 - Supported daily sales operations.
 
-**Independent Web Development Projects**  
-*2023 – Present*
+### Independent Web Development Projects
+**2023 – Present**
 
 - Building responsive web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
 - Practicing UI/UX design, API integration, and frontend development.
@@ -290,7 +303,7 @@ A media management project developed using Python.
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Orgpg&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=12&custom_title=Wai%20Phyo%20Aung%27s%20Contribution%20Graph" alt="GitHub contribution graph" />
 
-<sub>Live GitHub statistics and contribution activity</sub>
+<sub>GitHub statistics and contribution activity</sub>
 
 </div>
 
@@ -301,9 +314,9 @@ A media management project developed using Python.
 - 🚀 Grow as a developer and IT professional.
 - 💻 Build useful, modern, and responsive web applications.
 - ⚛️ Improve frontend and backend development skills.
-- 🗄️ Gain more practical experience with APIs and databases.
+- 🗄️ Gain practical experience with APIs and databases.
 - 🎨 Improve UI/UX design and user experience.
-- 🌐 Strengthen my knowledge of computer networking and network security.
+- 🌐 Strengthen computer networking and network security knowledge.
 - 📚 Continuously learn new technologies and improve problem-solving skills.
 - 🤝 Collaborate with development teams and gain real-world experience.
 
@@ -315,13 +328,15 @@ A media management project developed using Python.
 
 I'm interested in web development, frontend and backend technologies, UI/UX design, computer networking, and IT.
 
-I'm always happy to connect with developers, share knowledge, and explore new opportunities.
+I'm always happy to connect with developers, exchange knowledge, collaborate on projects, and explore new opportunities.
 
+<p>
 <a href="mailto:info@waiphyoaung.dev"><img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
 <a href="https://www.waiphyoaung.dev"><img src="https://img.shields.io/badge/Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
 <a href="https://facebook.com/wpa2018"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-<br /><br />
+<br />
 
 ### Thanks for visiting my profile!
 
