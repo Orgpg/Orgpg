@@ -22,13 +22,16 @@
 
 ---
 
+
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<div align="center">
 
 ### Hello, I'm Wai Phyo Aung!
+
+**IT Enthusiast & Developer from Myanmar 🇲🇲**
+
+</div>
 
 I'm an **IT Enthusiast & Developer** from Myanmar with an interest in building modern web applications and exploring different areas of information technology.
 
@@ -38,12 +41,9 @@ Beyond web development, I also have knowledge of computer networking, routing an
 
 Currently pursuing an **HND in Computing at GUSTO College**, while continuously improving my technical knowledge through personal projects and hands-on learning.
 
-</td>
-<td width="42%" valign="top">
-
 ### 👨‍💻 Profile Overview
 
-| | |
+| Information | Details |
 |---|---|
 | **Name** | Wai Phyo Aung |
 | **Location** | Myanmar 🇲🇲 |
@@ -53,6 +53,58 @@ Currently pursuing an **HND in Computing at GUSTO College**, while continuously 
 | **Interests** | Development & Networking |
 | **Website** | [waiphyoaung.dev](https://www.waiphyoaung.dev) |
 | **GitHub** | [@Orgpg](https://github.com/Orgpg) |
+
+### 💡 What I Do
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Frontend Development**
+
+Building responsive web interfaces with modern frontend technologies and focusing on clean UI/UX.
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Backend Development**
+
+Exploring server-side development, REST APIs, application logic, and database integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Database Management**
+
+Working with relational and NoSQL database technologies such as PostgreSQL and MongoDB.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Computer Networking**
+
+Learning networking fundamentals, routing, switching, firewall technologies, and network security.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎯 Currently Focused On
+
+- Improving frontend and backend development skills.
+- Building practical web applications and personal projects.
+- Learning more about APIs and database integration.
+- Strengthening networking and cybersecurity knowledge.
+- Continuously improving problem-solving and technical skills.
+
+> "Keep Learning. Keep Building. Keep Improving."
+
 
 </td>
 </tr>
